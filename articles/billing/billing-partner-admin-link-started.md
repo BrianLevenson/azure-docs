@@ -34,9 +34,9 @@ When you have access to the customer's resources, use Azure portal, PowerShell, 
 
 ### Use Azure portal to link new partner ID
 
-1. Go to [link to a partner ID](https://portal.azure.com/#blade/Microsoft_Azure_Billing/managementpartnerblade) in the Azure portal.
+1. Sign in to the Azure portal.
 
-2. Sign in to the Azure portal.
+2. Go to [link to a partner ID](https://portal.azure.com/#blade/Microsoft_Azure_Billing/managementpartnerblade) through the "Settings" tab, which can be accessed using the gear icon in the upper right corner.
 
 3. Enter the Microsoft partner ID.The partner ID is the [Microsoft Partner Network(MPN)](https://partner.microsoft.com/) ID of your organization.
 
